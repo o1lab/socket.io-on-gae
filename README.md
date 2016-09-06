@@ -1,6 +1,6 @@
 # socket.io on Google App Engine using node.js
 
-Contents below are of websockets sample in GAE and is also applicable to socket.io
+Contents below are of [websockets sample](https://goo.gl/l3OePg) in GAE and setup is also applicable to socket.io.
 This sample demonstrates how to use WebSockets on
 [Google App Engine Managed VMs](https://cloud.google.com/appengine) with Node.js.
 
